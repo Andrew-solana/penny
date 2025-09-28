@@ -1,0 +1,13 @@
+{
+  "name": "PENNY",
+  "symbol": "PENNY",
+  "description": "Penny Coin",
+  "image": "https://andrew-solana.github.io/penny/logo.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "34ndYA1RQydzxTqXTcwGADfYFVq4MPGkiocYS75cmSab",
+      "share": 100
+    }
+  ]
+}

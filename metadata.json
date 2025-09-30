@@ -9,5 +9,9 @@
       "address": "34ndYA1RQydzxTqXTcwGADfYFVq4MPGkiocYS75cmSab",
       "share": 100
     }
-  ]
+  ],
+  "showName": true,
+  "twitter": "https://x.com/solana",
+  "website": "https://solana.com/"
 }
+
